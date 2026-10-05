@@ -13,7 +13,7 @@
 
 ## Download
 
-Download **LuminaDrive.exe** from the Assets section of the latest [GitHub Release](../../releases/latest). The release is a self-contained, single-file `win-x64` application and does not require a separate .NET Runtime installation.
+Download the latest [LuminaDrive.exe](https://github.com/11easydo11/LuminaDrive/releases/latest/download/LuminaDrive.exe). It is a self-contained, single-file `win-x64` application and does not require a separate .NET Runtime installation.
 
 ## Use
 
