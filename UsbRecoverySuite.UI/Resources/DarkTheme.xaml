@@ -1,0 +1,46 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="WindowBackground" Color="#FF000000" />
+    <SolidColorBrush x:Key="WindowSurface" Color="#FF000000" />
+    <SolidColorBrush x:Key="SidebarBackground" Color="#FF1C1C1E" />
+    <SolidColorBrush x:Key="CardBackground" Color="#FF2C2C2E" />
+    <SolidColorBrush x:Key="GlassSurface" Color="#FF2C2C2E" />
+    <SolidColorBrush x:Key="DropdownBackground" Color="#FF1C1C1E" />
+    <SolidColorBrush x:Key="CardBorder" Color="#FF38383A" />
+    <SolidColorBrush x:Key="DividerBrush" Color="#FF38383A" />
+    <SolidColorBrush x:Key="TextPrimary" Color="#FFFFFFFF" />
+    <SolidColorBrush x:Key="TextSecondary" Color="#FFEBEBF5" />
+    <SolidColorBrush x:Key="DisabledForeground" Color="#FFEBEBF5" />
+    <SolidColorBrush x:Key="AccentColor" Color="#FF007AFF" />
+    <SolidColorBrush x:Key="AccentText" Color="#FF66B0FF" />
+    <SolidColorBrush x:Key="AccentHover" Color="#FF005FCC" />
+    <SolidColorBrush x:Key="PrimaryButtonBackground" Color="#FF0063CE" />
+    <SolidColorBrush x:Key="AccentForeground" Color="#FFFFFFFF" />
+    <SolidColorBrush x:Key="SuccessColor" Color="#FF30D158" />
+    <SolidColorBrush x:Key="SuccessText" Color="#FF30D158" />
+    <SolidColorBrush x:Key="WarningColor" Color="#FFFFD60A" />
+    <SolidColorBrush x:Key="WarningText" Color="#FFFFD60A" />
+    <SolidColorBrush x:Key="ErrorColor" Color="#FFFF453A" />
+    <SolidColorBrush x:Key="ErrorText" Color="#FFFF6B63" />
+    <SolidColorBrush x:Key="ErrorButtonBackground" Color="#FFB3261E" />
+    <SolidColorBrush x:Key="DangerButtonForeground" Color="#FFFFFFFF" />
+    <SolidColorBrush x:Key="CriticalColor" Color="#FFBF5AF2" />
+    <SolidColorBrush x:Key="SuccessSurface" Color="#FF173421" />
+    <SolidColorBrush x:Key="WarningSurface" Color="#FF332B16" />
+    <SolidColorBrush x:Key="ErrorSurface" Color="#FF3A1C1C" />
+    <SolidColorBrush x:Key="InfoSurface" Color="#FF1A2838" />
+    <SolidColorBrush x:Key="LogSurface" Color="#FF141416" />
+    <SolidColorBrush x:Key="InputBackground" Color="#FF1C1C1E" />
+    <SolidColorBrush x:Key="InputBorder" Color="#FF48484A" />
+    <SolidColorBrush x:Key="PopupBorder" Color="#FF38383A" />
+    <SolidColorBrush x:Key="PopupDivider" Color="#FF48484A" />
+    <SolidColorBrush x:Key="PopupArrow" Color="#FFEBEBF5" />
+    <SolidColorBrush x:Key="PopupSelected" Color="#FF005FCC" />
+    <SolidColorBrush x:Key="SecondaryButtonBackground" Color="#FF2C2C2E" />
+    <SolidColorBrush x:Key="SecondaryButtonHover" Color="#FF38383A" />
+    <SolidColorBrush x:Key="NavigationHover" Color="#FF2C2C2E" />
+    <SolidColorBrush x:Key="ProgressTrack" Color="#FF38383A" />
+    <SolidColorBrush x:Key="ModalOverlay" Color="#B0000000" />
+    <SolidColorBrush x:Key="NavSectionLabel" Color="#FFABABAF" />
+    <SolidColorBrush x:Key="LogText" Color="#FFAAB2C0" />
+</ResourceDictionary>

@@ -1,0 +1,21 @@
+# Apple HIG & Glassmorphism UI Rules
+
+## Theme palette
+- Support dark and light themes, plus following the Windows system theme.
+- Dark surfaces: `#000000`, `#1C1C1E`, `#2C2C2E`; light surfaces: `#F2F2F7`, `#FFFFFF`, `#E5E5EA`.
+- Accent color: `#007AFF`.
+- Prefer translucent surfaces, restrained blur, soft shadows, and rounded corners where they improve hierarchy and readability.
+
+## Typography and contrast
+- Use standard UI fonts, a clear type hierarchy, and high contrast against every background.
+- Dropdowns, context menus, menus, and popups must set their background and foreground explicitly for the active theme: dark surfaces with white text in dark mode, white surfaces with black text in light mode.
+- Hover and selection states use a blue accent with readable foreground text. Disabled items remain legible in light gray or an equivalent high-contrast theme color.
+- Never use white-on-white, black-on-black, or gray-on-gray text.
+
+## Layout
+- Use responsive Grid rows and columns, with sufficient margins and padding to prevent clipped text, overlap, or truncated labels.
+- Keep badges wide enough for localized text and preserve readable spacing when values change language or length.
+
+## Efficient changes
+- Make focused patch-style edits; do not rewrite unchanged files.
+- Keep user-facing replies concise and include relevant verification results.

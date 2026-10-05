@@ -1,0 +1,15 @@
+# Build and IDE output
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+
+# Local development helpers and generated release binaries
+.agents/
+publish/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
